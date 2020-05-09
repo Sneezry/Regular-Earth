@@ -8,5 +8,4 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 Fold out along dark lines, and inward along light lines.
 
-![Regular Earth](earth.jpg)
-
+<img src="https://raw.githubusercontent.com/Sneezry/Regular-Earth/master/earth.jpg" width="420" alt="Regular Earth">
