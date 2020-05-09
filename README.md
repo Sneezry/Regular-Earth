@@ -6,6 +6,6 @@ This project is released under CC0 license. It means there is no copyright for t
 
 You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
 
-Fold out along dark lines, and inward along light lines.
+Fold out along black lines, and inward along gray lines.
 
 <img src="https://raw.githubusercontent.com/Sneezry/Regular-Earth/master/earth.jpg" width="420" alt="Regular Earth">
